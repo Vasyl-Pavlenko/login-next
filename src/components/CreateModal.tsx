@@ -83,7 +83,7 @@ export const CreateModal: React.FC<CreateProps> = ({ show, onHide, onCreateObjec
     >
       <Modal.Header closeButton>
         <Modal.Title>
-          Create New Object
+          Create
         </Modal.Title>        
       </Modal.Header>
 
